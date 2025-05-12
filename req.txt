@@ -1,0 +1,29 @@
+# 🤖 AI Stand-Up Comedian 🎤
+
+Welcome to the **AI Stand-Up Comedian** — a fun web app that serves you jokes on demand!  
+This project uses the **JokeAPI** to fetch random jokes based on different categories like Programming, Pun, Dark, and more.
+
+## 🚀 Features
+
+- Choose from multiple joke genres using a simple dropdown.
+- Enjoy single-line and two-part jokes with clean formatting.
+- Responsive and beginner-friendly UI built with **Gradio**.
+- Real-time API integration using **requests**.
+- Built-in error handling for better user experience.
+
+## 🛠️ How to Run
+
+1. Clone this repository.
+2. Install dependencies using `pip install -r requirements.txt`.
+3. Run `python joke_app.py` in your terminal.
+4. Enjoy the laughs in your browser!
+
+## 📦 Dependencies
+
+- Gradio
+- Requests
+
+## 📜 License
+
+This project is open-source and free to use for educational or entertainment purposes.
+
